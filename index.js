@@ -26,3 +26,8 @@ let thirdBarnch2=()=>
 console.log("This is other brance code 1");
 console.log("This is other brance code 2");
 }
+let thirdBarnch3=()=>
+{
+console.log("This is other brance code 1");
+console.log("This is other brance code 2");
+}
