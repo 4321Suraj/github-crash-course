@@ -6,3 +6,7 @@ let ageAbove=()=>{
   return age>=18;
 }
 
+let otherBarnchCode=()=>
+{
+console.log("This is other brance code");
+}
